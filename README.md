@@ -2,61 +2,41 @@
 
 ![Banner](assets/banner.png)
 
-> ✨ 下一代网盘解析引擎 | ⚡ 多线程加速 | 🔒 隐私保护
+> ✨ 终极整合版发布 | ⚡ 全功能融合 | 🔒 企业级安全认证
 
-## 🌟 核心特性
+## 🌟 版本对比
 
-### 🚄 极速解析
-- 智能多引擎并行解析
-- 99.9% 超高成功率
-- <100ms 超低延迟
-
-### 🛡️ 安全防护
-```javascript
-// 无痕运行设计
-class Security {
-  constructor() {
-    this.noTracking = true;
-    this.noAds = true;
-  }
-}
-```
+| 功能特性       | 标准版 | 终极版 |
+|----------------|--------|--------|
+| 多引擎解析      | ✅     | ✅     |
+| 多线程加速      | ✅     | ✅     |
+| 企业级安全      | ❌     | ✅     |
+| 智能缓存        | ❌     | ✅     |
+| 跨平台支持      | ❌     | ✅     |
 
 ## 🛠️ 快速开始
 
-1. **安装要求**:
-   - Tampermonkey 4.15+
-   - Chrome/Firefox/Edge
+### 1. 版本选择
+```bash
+# 标准版 (基础功能)
+https://github.com/RoyelSteven-Ai/BaiDu.vip/raw/main/PanDownloadPro.user.js
 
-2. **一键安装**:
-   ```bash
-   # 通过Tampermonkey安装
-   [点击安装最新版](install.link)
-   ```
-
-3. **使用演示**:
-   ![使用演示](assets/demo.gif)
-
-## 📊 性能对比
-
-| 功能        | 传统方案 | Galaxy-Ai |
-|------------|---------|-----------|
-| 解析速度     | 1-3s    | <0.5s     |
-| 连接稳定性   | 85%     | 99.5%     |
-| 资源占用     | 高      | 极低       |
-
-## 📜 开发者声明
-
-```legal
-MIT License
-Copyright (c) 2023 Galaxy-Ai Team
+# 终极版 (全功能)
+https://github.com/RoyelSteven-Ai/BaiDu.vip/raw/main/PanDownloadUltimate.user.js
 ```
 
-🔗 **官方资源**:
+### 2. 安装指南
+![安装演示](assets/install.gif)
+
+## 📜 安全认证
+```security
+SSH-RSA 4096 86:a4:6c:be:cf:c8:45:15:aa:dc:58:ac:47:c2:1f:53
+Copyright (C) GALAXY AI Technology Co., Ltd.
+```
+
+## 🔗 官方资源
 - 官网: [www.Galaxy-Ai.vip](https://www.Galaxy-Ai.vip)
-- 问题反馈: [issues](https://github.com/RoyelSteven-Ai/BaiDu.vip/issues)
-- 联系邮箱: galaxy.vip@gmail.com
+- 文档: [使用手册](https://docs.Galaxy-Ai.vip)
+- 支持: support@Galaxy-Ai.vip
 
----
-
-> 🚫 本工具仅供学习交流，请勿用于商业用途
+> 🚫 严禁任何商业用途或二次分发
